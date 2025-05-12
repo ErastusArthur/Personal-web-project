@@ -1,0 +1,44 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Jollof Recipe</title>
+  </head>
+  <body>
+    <h1>JOLLOF RECIPE</h1>
+    <p>A lot of people don't know how simple it is to make a delicious dish of Jollof. Let me show you!</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>Tomatoes</li>
+      <li>Pepper</li>
+      <li>Onion</li>
+      <li>Garlic</li>
+      <li>Ginger</li>
+      <li>Tomato paste</li>
+      <li>Oil</li>
+      <li>Spices</li>
+      <li>Powdered fish</li>
+      <li>Rice</li>
+      <li>Salt</li>
+      <li>water(duhh)</li>
+      </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>Put some tomato paste, with oil, into a saucepan on fire.</li>
+      <li>Blend the pepper, garlic, ginger, onion. Pour the mixture into the saucepan on fire.</li>
+      <li>After the mixture cooks for a while, add a blended mixture of the tomatoes.</li>
+      <li>Add the salt and spices, and allow the stew to cook.</li>
+      <li>When the stew cooks, add the powdered fish. </li>
+      <li>Wash the rice, and add it to the cooked stew.</li>
+      <li>At this point, reduce the heat, and allow the rice to cook with the steam.</li>
+      <li>When, the jollof is well-cooked to your taste, turn off the heat and enjoy your masterpiece!</li>
+
+    </ol>
+    <img src="https://th.bing.com/th/id/OIP.6b1Nerc13j7GUT2TtmHYKwHaE7?w=278&h=185&c=7&r=0&o=7&cb=iwp2&dpr=1.3&pid=1.7&rm=3" alt="A bowl of Jollof">
+  </body>
+  </html>
+
+** end of index.html **
+
