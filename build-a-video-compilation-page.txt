@@ -1,0 +1,45 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main>
+    <h1>Random videos I love</h1>
+    <p>Below are just some videos that I fancy</p>
+    <section>
+        <h2>Coding Video</h2>
+        <p>This is really going to help you.</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/3V5LaqHqh4c?si=mUctvdBl2OQAtnpg" title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+
+    <section>
+        <h2>Art Video</h2>
+        <p>I cannot help it. I just love ART!</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dItF2RbPs4g?si=HzrcP8P8TsONDtvL" title="YouTube video player"
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+
+    <section>
+        <h2>Academic video</h2>
+        <p>I am a student....so why not?</p>
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/b81k5N5tInQ?si=zna9R-dTQr1CWgiY" title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+</main>
+</body>
+
+</html>
+
+** end of index.html **
+

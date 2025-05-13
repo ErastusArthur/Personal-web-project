@@ -1,0 +1,39 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta charset="UTF-8">
+<title>Travel Agency Page</title>
+<meta name="description" content="Searching for holiday destinations? Jump into this site, cause it,s all you need to decide on wonderful locations!">
+  </head>
+  <body>
+    <h1>Explore Ghana</h1>
+    <p> Endowed with a rich culture, this motherland has many relaxing holiday resorts and tourist attraction sites.</p>
+    <h2>Packages</h2>
+    <p>Just look at our packages! We offer an extensive range of holiday solutions to accommodate the needs of all our clients. From daily excursions in the most beautiful cities, to thorough tours of hidden villages and medieval towns to discover Italy's lesser-known sides.</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://ts4.mm.bing.net/th?id=OIP.6-OeJ4hjNWmaVtIzPVqj0QHaFj&pid=15.1" alt="Beach Resorts"></a> 
+      <figcaption>Relaxing Beach Resorts</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://th.bing.com/th/id/OIP.AGXvGmo_7HQJita--VgUYAHaEK?w=250&h=180&c=7&r=0&o=7&cb=iwp2&dpr=1.3&pid=1.7&rm=3" alt="Museum"></a>
+      <figcaption>Kwame Nkrumah Museleum</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://th.bing.com/th/id/OIP.TMsWA8ml_LT18RWy2DLYLwHaEO?w=269&h=180&c=7&r=0&o=7&cb=iwp2&dpr=1.3&pid=1.7&rm=3" alt="National Parks"></a>
+      <figcaption>Kakum National Park</figcaption>
+    </figure>
+    </body>
+    </html>
+
+** end of index.html **
+
