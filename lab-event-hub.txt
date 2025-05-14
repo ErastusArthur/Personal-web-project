@@ -1,0 +1,57 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+<header>
+    <h1>Event Hub</h1>
+    <nav>
+        <ul>
+            <li>
+                <a href="#upcoming-events">
+                    Upcoming Events</a></li>
+            <li>
+                <a href="#past-events">
+                    Past Events</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <section id="upcoming-events">
+        <h2>Upcoming Events</h2>
+        <article>
+            <h3>Art Exhibition</h3>
+            <p>Come and view spectacular pieces put together by renowed artistes. There will be fun games and refreshments, alongside! All this is happening on 
+<time date="2025-August-08T11:00">August 08, 2025 at 11:00 am.</time></p>
+        </article>
+        <article>
+            <h3>Swimming Race</h3>
+            <p>Want to get a huge reward just for swimming some lapse and topping? Join us this Semptember for a month-long swimming competition.</p>
+        </article>
+    </section>
+    <section id="past-events">
+        <h2>Past Events</h2>
+        <article>
+            <h3>Hackathon</h3>
+            <p>This event is over! We had some fun with some coding tasks. The winner was <i>Master Erastus Arthur</i></p>
+            <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="A computer screen">
+        </article>
+        <article>
+            <h3>Web Design</h3>
+            <p>Another event which is over. We had some interesting display of individually-designed websites to be judged. The winner was <em>Master Kofi Asante Barnieh.</em></p>
+            <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg" alt="Web Design">
+        </article>
+    </section>
+</main>
+</body>
+
+</html>
+
+** end of index.html **
+
