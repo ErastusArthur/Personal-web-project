@@ -1,0 +1,71 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+    <h1 id="title">Exhibition Review Form</h1>
+    <p id="description">We are great to have had you attend this year's Art Exhibition. We believed you like what you saw, but we would like to give you the room to express your view. Please fill this form below.</p>
+    <form id="survey-form">
+      <fieldset>
+        <legend>Personal Information</legend>
+      <label for="name">Full Name:</label> 
+      <input id="name" type="text" required placeholder="Ex: Erastus Arthur.">
+      <br>
+      <label id="name-label">Enter your name here.</label>
+      <br><br>
+      <label for="email">Email Address:</label>
+      <input id="email" type="email" required placeholder="erastusarthur@gmail.com">
+      <br>
+      <label id="email-label">Enter your email here.</label>
+      <br><br>
+      <label for="number">Age:</label>
+      <input type="number" id="number" min="10" max="90" placeholder="18">
+      <br>
+      <label id="number-label">Select your age.</label>
+      </fieldset>
+      <br>
+      <fieldset>
+        <legend>Event data</legend>
+       <p> Were you fascinated by the display?</p>
+       <select id="dropdown">
+         <option id="dropdown">Very Much</option selected>
+         <option id="dropdown">Neutral</option>
+         <option id="dropdown">Could do better</option>
+      </select>
+      <br>
+      <p>Did you purchase a piece?</p>
+      <input id="purchase" type="radio" value="Yes" name="purchase">
+      <label for="purchase">Of course!</label>
+      <br>
+      <input id="purchase" type="radio" value="nope"name="purchase">
+      <label for="purchase">I regret not doing so</label>
+      <br>
+      <input id="purchase" type="radio" value="not satisfied"name="purchase">
+      <label for="purchase">Didn't get what I wanted</label>
+      <p>What rating would you give us?</p>
+      <input id="rate"type="checkbox" value="5" checked>
+      <label for="rate">5</label>
+      <input id="rate"type="checkbox" value="4">
+      <label for="rate">4</label>
+      <input id="rate"type="checkbox" value="3">
+      <label for="rate">3</label>
+      <input id="rate"type="checkbox" value="2">
+      <label for="rate">2</label>
+      <input id="rate"type="checkbox" value="1">
+      <label for="rate">1</label>
+      </fieldset>
+      <br><br>
+      <textarea id="comments" minlength="0" maxlength="1000">Additional Comments:</textarea>
+      <br><br>
+      <button type="submit" id="submit">SUBMIT FORM</button>
+    </form>
+  </body>
+</html>
+
+** end of index.html **
+
