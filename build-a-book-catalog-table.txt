@@ -1,0 +1,65 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalog</title>
+</head>
+
+<body>
+  <table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Genre</th>
+        <th>Publication Year</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Memories</td>
+        <td>Erastus Arthur</td>
+        <td>Poetry</td>
+        <td>2025</td>
+      </tr>
+      <tr>
+        <td>3 pointers</td>
+        <td>Henrietta Forson</td>
+        <td>Sports</td>
+        <td>2010</td>
+      </tr>
+      <tr>
+        <td>Flipped</td>
+        <td>Bryce Losky</td>
+        <td>Romance</td>
+        <td>1990</td>
+      </tr>
+      <tr>
+        <td>Shipwreck</td>
+        <td>Austin Bimpeh</td>
+        <td>Adventure</td>
+        <td>2023</td>
+      </tr>
+      <tr>
+        <td>443</td>
+        <td>Selolo Kwawukume</td>
+        <td>Sports</td>
+        <td>2024</td>
+      </tr> 
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4">Total Books: 5</td>
+      </tr>
+    </tfoot>
+  </table>
+</body>
+
+</html>
+
+** end of index.html **
+
