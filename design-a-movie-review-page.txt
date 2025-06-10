@@ -1,0 +1,48 @@
+** start of index.html **
+
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Movie Review</title>
+ </head>
+
+<body>
+<main>
+    <h1><center>PERFECT FIND</center></h1>
+    <img src='https://th.bing.com/th/id/OIP.1K8s9N78ePEZh6YpjGWhQQHaEK?rs=1&pid=ImgDetMain' alt='A man and woman staring at each other, in love'>
+<p>An older woman falls in love with the son of her nemesis. She denies this love, as she tries to revive her career that fell as a result of public humiliation. However, the heart wanted what it wanted, though things got messy!</p>
+<p>
+    <strong>Movie Rating:</strong>
+    <span aria-hidden='true'>⭐⭐⭐⭐⭐⭐⭐⭐⭐☆</span>(9.2/10)
+</p>
+<h2>Cast Members</h2>
+<ul>
+    <li>
+        <strong>Gabrielle Union </strong>as Jenna
+    </li>
+     <li>
+        <strong>Keith Powers </strong>as Eric
+    </li>
+    <li>
+        <strong>Gina Torres </strong>as Darcy
+    </li>
+     <li>
+        <strong>Aisha Hinds </strong>as Billie
+    </li>
+     <li>
+        <strong>D. B. Woodside </strong>as Brian
+    </li>
+     <li>
+        <strong>La La Anthony </strong>as Elodie
+    </li>
+     
+</ul>
+</main>
+</body>
+
+</html>
+
+** end of index.html **
+
