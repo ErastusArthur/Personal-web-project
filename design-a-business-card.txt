@@ -1,0 +1,70 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Business Card</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<div class="business-card">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/flower.jpg" class="profile-image" alt="a beautiful flower">
+    <p class="full-name">Erastus Kobina Annan Arthur.</p>
+    <p class="designation">Chief Executive Officer.</p>
+    <p class="company">LOSKYS DALKEITH</p>
+    <hr>
+    <p>erastusarthur@gmail.com</p>
+    <p>0599773555 / 0509292303</p>
+    <a href="https://www.freecodecamp.org/learn/full-stack-developer/lab-business-card/design-a-business-card">Portfolio</a>
+    <hr>
+    <div class="social-media">
+    <h2>Connect with me</h2>
+    <a href="www.twitter.com/erastus-arthur">Twitter</a>
+    <a href="www.linkedin.com/in/erastus-arthur">LinkedIn</a>
+    <a href="https://github.com/ErastusArthur">GitHub</a>
+</div>
+</div>
+<hr>
+
+</body>
+
+</html>
+
+** end of index.html **
+
+** start of styles.css **
+
+body{
+  background-color: rosybrown;
+  font-family: Arial, sans-serif;
+}
+
+p{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.business-card{
+  width: 300px;
+  background-color: lavender;
+  padding: 20px;
+  margin-top: 100px;
+  text-align: center;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile-image{
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+** end of styles.css **
+
