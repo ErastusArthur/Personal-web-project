@@ -1,0 +1,121 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Styled To-Do List</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<div class="head">
+    <h2>ERASTUS ARTHUR'S<br> TO-DO LIST</h2>
+
+    <ul class="todo-list">
+
+
+        <li>
+            <div class="block">
+            <input type="checkbox" id="guitar">
+            <label for="guitar">Guitar Practice</label>
+            <ul class="sub-item">
+                <li>
+                    <a href="https://www.justinguitar.com/" class="sub-item-link" target=_blank>Visit Practice Site</a>
+                </li>
+            </ul>
+        </div></li>
+
+        <li>
+            <div class="block">
+            <input type="checkbox" id="ceng">
+            <label for="ceng">Work on CENG Project</label>
+            <ul class="sub-item">
+                <li>
+                    <a href="https://www.youtube.com/watch?v=nBfuCUOEqwc" class="sub-item-link" target=_blank>Look at Sample Projects</a>
+                </li>
+            </ul>
+        </div></li>
+
+        <li>
+            <div class="block">
+            <input type="checkbox" id="drive">
+            <label for="drive">Go for Driving Lessons</label>
+            <ul class="sub-item">
+                <li>
+                    <a href="https://driving-tests.org/academy/start-driving/overview" class="sub-item-link" target=_blank>Book an Appointment</a>
+                </li>
+            </ul>
+        </div></li>
+
+        <li>
+            <div class="block">
+            <input type="checkbox" id="art">
+            <label for="art">Draw a Portrait</label>
+            <ul class="sub-item">
+                <li>
+                    <a href="https://www.freepik.com/free-photos-vectors/portrait" class="sub-item-link" target=_blank>Look at Reference Picture</a>
+                </li>
+            </ul>
+        </div></li>
+
+    </ul>
+</div></div>
+</body>
+
+</html>
+
+** end of index.html **
+
+** start of styles.css **
+
+a:link{
+  color:teal;
+}
+a:visited{
+  color:lightblue;
+}
+a:hover{
+  color:lavender;
+}
+a:focus{
+  color:purple;
+  outline:2px;
+}
+a:active{
+  color:black;
+}
+h2{
+  text-align:center;
+  font-size:29px;
+}
+.head{
+  border-radius: 20px;
+  width:380px;
+  margin-left:auto;
+  margin-right:auto;
+  background-color:lavender;
+}
+.todo-list{
+  margin-down:70px;
+}
+.block{
+  background-color:grey;
+ border-radius: 20px; margin-bottom:50px;
+  width:250px;
+  length:150px;
+  padding:25px;
+
+  font-size:18px;
+}
+.sub-item{
+  padding-top:10px;
+  text-align:center;
+}
+.sub-item-link{
+  text-decoration:none;
+}
+
+** end of styles.css **
+
